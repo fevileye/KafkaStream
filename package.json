@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "Kafka Consumer for Logging",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kafka-node": "3.0.0"
+  },
+  "author": "EC",
+  "license": "ISC"
+}
