@@ -17,3 +17,8 @@ consumer.commit(function(err,data){
     console.log(err);
 });
 
+consumer.on('error',function(err){
+    console.log(err);
+});
+
+
